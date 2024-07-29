@@ -8,8 +8,9 @@ table,th,td,tr{
 .fin{
     font-size: 80px;
     color: white;
-    margin-left: 38%;
-    margin-right: 10%;
+    margin-left: 21%;
+    margin-right: 5%;
+    /* text-align: center; */
 }
 
 #hiphop{
@@ -20,6 +21,9 @@ body{
     /* border: 20px inset; */
     /* width: fit-content;
     height: fit-content; */
+    /* height: 100%;
+    width: 100%; */
+    margin: 1px;
 }
 .king{
     margin-left: 10%;
@@ -90,10 +94,11 @@ html{
     scroll-behavior: smooth;
 }
 .jik{
-    font-size: 35px;
+    /* font-size: 35px; */
     margin-left: 17%;
     color: white;
     /* text-decoration: underline; */
+    font-family: 'Times New Roman';
 }
 .hj{
     margin-left: 35%;
@@ -114,19 +119,19 @@ td:hover{
 }
 .hio{
     color: white;
-    margin-top: 6.7%;
+    margin-top: 6%;
     margin-left: 25%;
     margin-right: -10%;
-    text-decoration:underline;
+    /* text-decoration:underline; */
     width: 2;
 }
 .hio1{
     color: white;
     margin-left:139%;
-    margin-top: -20%;
-    margin-right: -110%;
+    margin-top: -42%;
+    margin-right: -150%;
     width: 2;
-    text-decoration: underline;
+    /* text-decoration: underline; */
 }
 .hel div{
     margin: 50%;
@@ -137,17 +142,97 @@ td:hover{
     margin-left: -45%;
     margin-top: 18%;
     width: 45%;
+    text-align: left;
+    line-height: 30px;
 }
 .pi{
     color: white;
     font-size: 20px;
-    margin-top: -15%;
+    margin-top: -16%;
     margin-left: 18%;
-    margin-right: 50%;
+    margin-right: 35%;
+    text-align: left;
+    line-height: 30px;
 }
 p:hover{
     text-shadow: 2px 2px 5px blue;
+    font-size: 25px;
 }
 li:hover{
     text-shadow: 2px 2px 5px blue;
+}
+hr{
+    margin: 10%;
+}
+.u1{
+    color: white;
+    margin-top: 70%;
+    margin-left: 25%;
+}
+.XII{
+    color: white;
+    font-size: 20px;
+    margin-top: 30%;
+    margin-left: -45%;
+    margin-right: 100%;
+    text-align: left;
+    line-height: 30px;
+}
+.hio2{
+    color: white;
+    margin-top: 10%;
+    margin-left: 40%;
+    margin-right: -50%;
+    /* text-decoration:underline; */
+    width: 2;
+}
+.hio3{
+    color: white;
+    margin-left:199%;
+    margin-top: -42%;
+    margin-right: -210%;
+    width: 2;
+    /* text-decoration: underline; */
+}
+.u2{
+    color: white;
+    margin-top: 110%;
+    margin-left: 100px;
+    margin-right: -50px;
+}
+.oi1{
+    color: white;
+    margin-top:25% ;
+    margin-left: -150px;
+    font-size: 20px;
+    line-height: 30px;
+
+}
+.oi2{
+    color: white;
+    margin-left: 255px;
+    margin-top: -70px;
+    line-height: 30px;
+    font-size: 20px;
+}
+.tool{
+    color: white;
+    line-height: 30px;
+    font-size: 20px;
+    margin-top: 230px;
+    margin-left: -150px;
+}
+.ko{
+    font-size: 20px;
+    color: white;
+    margin-left: 250px;
+    margin-top: 70px;
+    margin-right: 50%;
+    /* text-decoration: none; */
+    list-style: none;
+    font-size: 23px;
+    line-height: 30px;
+}
+.email{
+    color:white;
 }
